@@ -7,7 +7,7 @@ The bike log project was created on Feb. 1st, 2021
 The new title of the bikeshare project is bikelog_info.
 
 ### Description
-This project tracks bike ride sharing information. This information includes (but is not limited too): duration of rental, most popular start and stop locations for renting/returning, most popular time of day for rentals, most popular day, week and month of rentals, possibly renters gender and age, among other information.
+This project tracks bike ride sharing information. This information includes (but is not limited too): duration of rental, most popular start and stop locations for renting/returning, most popular time of day for rentals, most popular day, week and month of rentals, possibly renters gender and age, among other information. Also allows user to interact and see "raw" data for all three cities if information is available to view.
 
 ### Files used
 The files used were information regarding bicycle rentals in three major cities:
