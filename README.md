@@ -1,17 +1,19 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+The bike log project was created on Feb. 1st, 2021
 
 ### Project Title
-Replace the Project Title
+The new title of the bikeshare project is bikelog_info.
 
 ### Description
-Describe what your project is about and what it does
+This project tracks bike ride sharing information.
 
 ### Files used
-Include the files used
+The files used were information regarding bicycle rentals in three major cities:
+1. Chicago
+2. New York City
+3. Washington D.C.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I really don't have anyone to credit outside of Udacity for this.
